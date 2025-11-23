@@ -1,0 +1,2 @@
+# Praktikum
+Repo latihan praktikum
